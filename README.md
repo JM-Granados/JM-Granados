@@ -32,13 +32,48 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:josemacr04@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/JM-Granados"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.hackerrank.com/josé granados" target="blank"><img img src="https://img.shields.io/badge/hackerrank-%23EA4335.svg?style=plastic&logo=hackerrank&logoColor=white" alt="hackerrank"/></a>
-	<a href="https://wa.me/60219635"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/jose-manuel-granados-villalobos-817621193/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/profile.php?id=100037245814412&ref=_ig_profile_ac"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <!-- Gmail -->
+  <a href="mailto:josemacr04@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/JM-Granados">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/josemacr04">
+    <img src="https://www.svgrepo.com/show/341892/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/60219635">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jose-manuel-granados-villalobos-817621193/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=100037245814412&ref=_ig_profile_ac">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/speedygonzalezzz">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="40" height="40"/>
+  </a>
 </p>
+
+
+
+
+
+
+
 
 ## 🛠️ My Skills
 
@@ -155,25 +190,120 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+
+
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details>
+  <summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+  ----
+
+  <!-- In Progress Repos -->
+  <h4 align="center">🚧 In Progress</h4>
+  <div>
+    <p align="center">
+      <a href="https://github.com/AmonSeguroTeam/AmonSeguro">
+        <img src="https://img.shields.io/badge/-AmonSeguro-181717?style=for-the-badge&logo=github" alt="AmonSeguro" />
+      </a>
+    </p>
+  </div>
+
+  <br/>
+
+  <!-- Completed / Past Repos -->
+  <h4 align="center">✅ Past Projects</h4>
+  <div>
+    <p align="center">
+      <a href="https://github.com/JM-Granados/farmaPower">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JM-Granados&repo=farmaPower&theme=tokyonight" alt="farmaPower" />
+      </a>
+      <a href="https://github.com/JM-Granados/Proyecto1_TeamMeli">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JM-Granados&repo=Proyecto1_TeamMeli&theme=tokyonight" alt="Proyecto1_TeamMeli" />
+      </a>
+      <a href="https://github.com/JM-Granados/ExtraExtraGame">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JM-Granados&repo=ExtraExtraGame&theme=tokyonight" alt="ExtraExtraGame" />
+      </a>
+    </p>
+  </div>
+
+</details>
+
+
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+	
 <p align="center">
-  <a href="https://github.com/JM-Granados/github-readme-stats">
-    <img alt="JM-Granados's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JM-Granados&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
+	<a href="https://github.com/JM-Granados">
+    	<img 
+	      alt="JM-Granados Streak Stats" 
+	      src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=JM-Granados&theme=tokyonight&hide_border=false"
+	      height="230px"
+	    />
+	</a>
+</p>
+</details>
+
+
+
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+     <a href="https://github.com/JM-Granados/github-readme-stats">
+    <img 
+      alt="JM-Granados's Github Stats" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=JM-Granados&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" 
+      height="230px"
+    />
   </a>
+
+  <!-- Top Languages -->
   <a href="https://github.com/JM-Granados">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JM-Granados&langs_count=10&show_icons=true&locale=en&theme=dark" alt="Top Languages" height="230px"/>
+    <img 
+      alt="My Programming Languages" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JM-Granados&layout=compact&langs_count=8&theme=tokyonight" 
+      height="230px"
+    />
   </a>
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+
+
+
+<details><summary><h3>⚡ Top Contributed Repo</h3></summary>
+
+----
+	
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=JM-Granados&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
+    alt="JM-Granados Contributor Stats" 
+  />
+</p>
+</details>
+
+
+
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=JM-Granados&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="JM-Granados" />
 </p>
 
-## 🏆 GitHub Trophies
- 
-![](https://github-profile-trophy.vercel.app/?username=JM-Granados&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Granados&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=JM-Granados&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=JM-Granados&theme=radical&hide_border=false)
+</details>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JM-Granados&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
