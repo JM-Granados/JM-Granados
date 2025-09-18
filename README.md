@@ -155,27 +155,25 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jm-granados&show_icons=true&locale=en&layout=compact" alt="jm-granados" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jm-granados&show_icons=true&locale=en" alt="jm-granados" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jm-granados&" alt="jm-granados" /></p>
-
-
 # 📊 GitHub Stats:
 <p align="center">
-    <a href="https://github.com/JM-Granados/github-readme-stats">
-	    <img alt="JM-Granados's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JM-Granados&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JM-Granados&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="JM-Granados" height="230px"/>
-<br/>
+  <a href="https://github.com/JM-Granados/github-readme-stats">
+    <img alt="JM-Granados's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JM-Granados&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
+  </a>
+  <a href="https://github.com/JM-Granados">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JM-Granados&langs_count=10&show_icons=true&locale=en&theme=dark" alt="Top Languages" height="230px"/>
+  </a>
+</p>
+
 ## 🏆 GitHub Trophies
+ 
 ![](https://github-profile-trophy.vercel.app/?username=JM-Granados&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Granados&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=JM-Granados&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=JM-Granados&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Granados&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=JM-Granados&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=JM-Granados&theme=radical&hide_border=false)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JM-Granados&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=JM-Granados&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
