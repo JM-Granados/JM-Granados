@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jm-granados&label=Profile%20views&color=0e75b6&style=flat" alt="jm-granados" /> 
-    <img src="https://img.shields.io/badge/Tec-Computer%20Engineering%20Student-0e75b6" />
+    <img src="https://img.shields.io/badge/TEC-Computer%20Engineering%20Student-0e75b6" />
     <img src="https://img.shields.io/badge/Open%20to%20Internships-YES-0e75b6" />
 </p>
 
@@ -17,13 +17,47 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 **I’m currently working on:** [AmonSeguro](https://github.com/AmonSeguroTeam/AmonSeguro) – Security-focused web platform  
-- 🌱 **I’m currently learning:** Advanced Cloud Services (Azure), System Design, and Fullstack Optimization  
-- 👯 **I’m looking for:** a Software Engineering Internship for my professional practice starting next semester  
-- 💬 **Ask me about:** Web Development, Cloud Fundamentals (Azure Certified), Databases, and QA/Testing  
+- 🔭 **I’m currently working on:** [AmonSeguro](https://github.com/AmonSeguroTeam/AmonSeguro) – security-focused web platform  
+- 🌱 **I’m currently learning:** Artificial Intelligence and Computer Networking  
+- 👯 **I’m looking for:** a Software Engineering internship for my professional practice starting next semester  
+- 💬 **Ask me about:** Web development, cloud fundamentals (Azure certified), databases, and QA/testing  
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/jose-manuel-granados-villalobos-817621193)  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I love turning ideas into real applications that improve people’s lives 🚀
+
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JM-3481/7B4D8450702B7E80?sharingId=1FBAD2CF902367E4" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" width="150"/>
+  </a>
+  <br/>
+  <b>Microsoft Certified: Azure Fundamentals (AZ-900)</b>
+  <br/>
+</p>
+
+
+
+
+## 🎓 Education
+
+<p align="center">
+  <img src="https://www.tec.ac.cr/themes/custom/tecnologico/logo.svg" alt="TEC Logo" width="300" height="300"/>
+  <br/>
+  <b>Instituto Tecnológico de Costa Rica (TEC)</b> — B.Sc. Computer Engineering (Studying)
+  <br/>
+  📍 San José, Costa Rica
+</p>
+
+### 📚 Selected Coursework
+<p align="center">
+  - Programming Fundamentals, OOP, and Computer Architecture<br/>
+  - Data Structures, Databases, Algorithms and Graphics<br/>
+  - Full-Cycle Software Design and Project Leadership<br/>
+  - Software Quality and Systems<br/>
+  - Planned Professional Engineering Practice
+</p>
+
 
 <!-- Snake Game Repo View -->
 <div align="center">
@@ -112,7 +146,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -138,7 +172,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -196,7 +230,7 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details>
-  <summary><h3> :open_file_folder: My Repositories </h3></summary>
+  <summary><h3> :open_file_folder: Relevant Projects </h3></summary>
 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
