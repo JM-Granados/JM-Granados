@@ -34,44 +34,39 @@
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:josemacr04@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="70" height="70"/>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/JM-Granados">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="80" height="80"/>
   </a>
 
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/josemacr04">
-    <img src="https://www.svgrepo.com/show/341892/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=2EC866" alt="HackerRank" width="115" height="115"/>
   </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/60219635">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" width="100" height="100"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jose-manuel-granados-villalobos-817621193/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="70" height="70"/>
   </a>
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100037245814412&ref=_ig_profile_ac">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" width="100" height="100"/>
   </a>
 
   <!-- Discord -->
   <a href="https://discord.com/users/speedygonzalezzz">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" width="90" height="90"/>
   </a>
 </p>
-
-
-
-
-
 
 
 
@@ -100,6 +95,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+	<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly" width="40" height="40"/>
+</a>
+
 </p>
 
 
@@ -111,9 +110,6 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -162,9 +158,13 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+	<a href="https://railway.com" target="_blank" rel="noopener noreferrer">
+		<img src="https://img.shields.io/badge/-Railway-111216?style=flat-square&logo=railway&logoColor=white" alt="Railway" width="40" height="40"/>
+	</a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+	
 </p>
 
 
@@ -198,7 +198,7 @@
 <details>
   <summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-  ----
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
   <!-- In Progress Repos -->
   <h4 align="center">🚧 In Progress</h4>
@@ -234,7 +234,7 @@
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>	
 	
 <p align="center">
 	<a href="https://github.com/JM-Granados">
@@ -252,7 +252,7 @@
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 	
 <p align="center">
      <a href="https://github.com/JM-Granados/github-readme-stats">
@@ -279,9 +279,9 @@
 
 
 
-<details><summary><h3>⚡ Top Contributed Repo</h3></summary>
+<details><summary><h3>🥇 Top Contributed Repo</h3></summary>
 
-----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 	
 <p align="center">
   <img 
@@ -293,10 +293,25 @@
 
 
 
+<details><summary><h3>📈 Recent GitHub Activity</h3></summary>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+	
+<p align="center">
+  <a href="https://github.com/JM-Granados/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
+    <img alt="JM-Granados's github activity graph"
+         src="https://github-readme-activity-graph.vercel.app/graph?username=JM-Granados&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true"
+         style="max-width:100%;"/>
+  </a>
+</p>
+</details>
+
+
+
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
-----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 	
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=JM-Granados&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="JM-Granados" />
